@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\khs22\OneDrive\πŸ≈¡ »≠∏È\WorkSpace\SpringPractice\.metadata\.plugins\org.eclipse.jdt.core
+3658359147.index
+1865797976.index
+2181955348.index
